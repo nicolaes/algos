@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "iomanip": "cpp",
+        "iostream": "cpp"
+    },
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.pylintArgs": ["--disable=R,C"]
+}
