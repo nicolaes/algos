@@ -21,7 +21,11 @@
 .editorconfig
 .huskyrc.json
 *.iml
+.vscode
 
 # System Files
 .DS_Store
 Thumbs.db
+
+# other
+__pycache__
